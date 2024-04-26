@@ -9,6 +9,5 @@ public class Main {
         stringBox.setValue("Рядок 2");
         System.out.println(stringBox.getValue());
 
-
     }
 }
